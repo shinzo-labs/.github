@@ -1,2 +1,2 @@
 # Shinzo Labs
-Shinzo Labs is building a heart for the internet.
+Building a heart for the internet.
