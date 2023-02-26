@@ -1,2 +1,2 @@
 # Shinzo Labs
-Building a platform to commodify AI utility.
+Unlocking generative AI utility on consumer hardware.
