@@ -1,2 +1,2 @@
 # Shinzo Labs
-Commodifying AI utility.
+Building a platform to commodify AI utility.
