@@ -1,2 +1,2 @@
 # Shinzo Labs
-Unlocking generative AI utility on consumer hardware.
+Building Shinzo, the next-gen platform for enterprise blockchain operations.
