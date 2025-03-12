@@ -1,2 +1,2 @@
 # Shinzo Labs
-Building the interface layer for Web3.
+Giving AI agents adaptive superpowers.
