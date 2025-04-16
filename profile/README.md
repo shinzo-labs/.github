@@ -1,2 +1,2 @@
 # Shinzo Labs
-Giving AI agents adaptive superpowers.
+Enabling anyone to use intelligent automation.
