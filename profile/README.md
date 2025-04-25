@@ -1,2 +1,2 @@
 # Shinzo Labs
-Enabling anyone to use intelligent automation.
+Applying AI automation to solve everyday problems.
