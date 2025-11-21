@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 <div align="center">
-    <a href="https://github.com/shinzo-labs/shinzo"><img src="https://github.com/user-attachments/assets/78542e5b-1da1-44ad-a3e2-5b4eb9e6a962" alt="Logo" width="256" height="256"></a>
+    <a href="https://github.com/shinzo-labs/shinzo"><img src="[https://github.com/user-attachments/assets/78542e5b-1da1-44ad-a3e2-5b4eb9e6a962](https://github.com/user-attachments/assets/64f5e0ae-6924-41b1-b1da-1b22627e5c43)" alt="Logo" width="256" height="256"></a>
     <h1 align="center">Shinzo: Modular Analytics for MCP Servers</h1>
     <p align=center>
         <a href="https://github.com/shinzo-labs/shinzo/stargazers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fshinzo-labs%2Fshinzo%2Fstargazers&query=%24.length&logo=github&label=stars&color=e3b341" alt="Stars"></a>
@@ -12,7 +12,7 @@
     </p>
     Shinzo is the first fully modular analytics solution for MCP servers built with OpenTelemetry semantic conventions. Gain insight into agent usage patterns, contextualize tool calls, and analyze performance of your servers across platforms. Instrumentation can be installed in servers in just a few steps with an emphasis on ease of use and flexibility.
     <p align=center>
-        <a href="https://github.com/shinzo-labs/shinzo"><strong>Explore the docs »</strong></a>
+        <a href="https://docs.shinzo.ai/"><strong>Explore the docs »</strong></a>
     </p>
 </div>
 
